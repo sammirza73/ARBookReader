@@ -1,0 +1,3 @@
+step1: Install all packages listed in requirements.txt
+step2: Execute program by either 1) "./ex.sh" command in linux
+                          or     2) "python3 main.py"

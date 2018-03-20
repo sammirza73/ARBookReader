@@ -1,0 +1,8 @@
+python-3.x
+opencv2
+pillow
+pytesseract
+tesseract-ocr
+pyttsx3
+numpy
+matplotlib
